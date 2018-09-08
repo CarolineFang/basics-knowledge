@@ -28,6 +28,30 @@
 
 - git status   ===  ls
 
+- git add .
+
+- git status
+
+- git commit -m "注释说明"
+
+- git status
+
+- git push origin master
+
+- git pull origin master
+
+- git checkout .
+
+- git diff
+
+- git log
+
+- git reset .
+
+- git reflog  
+
+
+
 
 
 
